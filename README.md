@@ -17,13 +17,10 @@ The project entails the development of a streamlined choropleth map script desig
 
 - <b>Jupyter Notebook</b> (Python 3.8)
 <br />
-<br />
-<br />
-<br />
 
 <h2>Project Output</h2>
 <p align = "left"><br/>
-  >> Image result obtained from the project 
+ 
   <br/>
 <img src="https://yajitersoo.github.io/jsonapi/Choropleth Map Showing Number of IDPs Displaced by LGA.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
